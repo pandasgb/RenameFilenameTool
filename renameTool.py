@@ -1,3 +1,7 @@
+"""
+@Author:Pan
+"""
+
 import os
 import shutil
 #使用步骤：1.将第一个文件改成xxx(0) 2.改文件夹地址 3.改nameList & selectList 文件分两个文件夹
